@@ -5,6 +5,6 @@ This is a helper tool is designed to handle the merging of DLL files with a .NET
 
 ## Features
 Check if ILMerge is installed in cwd; if not, it will automatically install it from my GitHub. And attempts to hide the ILMerge executable (for a cleaner interface). 
-Then, it will prompt the user to enter the path of the folder, OR you can enter the exe itself, and it will automatically detect everything.
+Then, it will prompt the user to enter the path of the folder, OR you can enter the exe itself, and it will automatically detect everything. (I lied you need to drag the exe into the console, cba to implement the folder feature.)
 
 If there are any problems, open an issue or make a pull request if you want to update. 
